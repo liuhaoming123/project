@@ -1,0 +1,20 @@
+.breadcrumb {
+  background: transparent;
+  padding: 0.50rem 1rem;
+  font-size: 12px;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+  color: #000;
+  content: "|";
+}
+a{
+  color: #000 !important;
+  text-decoration: none !important;
+}
+.zhongjian{
+ text-align: center !important;
+}
+.font12{
+  font-size: 12px;
+  color: #000;
+}

@@ -1,0 +1,77 @@
+a{
+  color: #000 !important;
+  text-decoration: none !important;
+}
+a:hover{
+  color: #5184eb !important;
+}
+.f1{
+  border-bottom: 4px solid #5184eb;
+}
+.f1-1{
+  border-bottom: 1px solid #5184eb;
+}
+.f2{
+  height: 20px;
+  border-left: 4px solid #2291F6;
+}
+.font20{
+  color: #5184eb;
+  font-size: 20px !important;
+  font-weight: 700;
+}
+.font13{
+  line-height: 30px;
+  padding-right: 10px;
+  font-size: 13px;
+}
+.capital{
+  margin: 4px;
+  margin-right:10px; 
+  width: 22px;height: 22px;
+}
+.fonts20{
+  color: #000 !important;
+  font-size: 20px;
+}
+.fonts22{
+  color: #000 !important;
+  font-size: 22px !important;
+  font-weight: 700 !important;
+}
+.upanddown{
+  height: 60px;
+  line-height: 60px;
+}
+.shade{
+  background-color: transparent !important;
+}
+shade:hover{
+  background-color: #000 !important;
+  /* background-color: #f3f6f8 !important; */
+}
+.wire{
+  border-bottom: 1px solid #e6e6e6; 
+}
+.tall{
+  height: 45px;
+  line-height: 45px;
+}
+.fonts14{
+  font-size: 14px;
+  line-height: 20px;
+  padding: 6px 0 6px 12px;
+  background: url(//mat1.gtimg.com/pingjs/ext2020/test2017/build/static/images/news_dot.png) left 13px no-repeat;
+}
+.ColorGrayness{
+  background-color: #f7f8f9 !important;
+  margin-bottom: 30px !important;
+}
+.altitude{
+  height: 52px;
+}
+.hh{
+  display: inline-block;
+  width: 24px;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAUCAYAAACAl21KAAAACXBIW…LW7wrNCG32fPDR6IU228AwkFolR54SrJKDwCkwKLQ5CHP3X5CgMdjbpGgAAAAASUVORK5CYII=) 0 no-repeat;
+}
