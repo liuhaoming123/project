@@ -26,8 +26,8 @@ a:hover {
     }
 }
 
-.log-banner {
-    padding: 0 20px 0 0;
+.header-fixed {
+    padding-left: 20px;
 }
 
 .log-banner img {
@@ -46,7 +46,7 @@ header {
 @media screen and (min-width: 1280px) {
     .container {
         width: 1240px;
-        margin-top: 50px;
+        margin-top: 10px;
     }
 }
 
@@ -54,7 +54,7 @@ header {
 /* 左边 */
 
 .hd {
-    width: 170px;
+    width: 150px;
     height: 50px;
     background-color: #4889F3;
     font-size: 20px;
@@ -63,12 +63,12 @@ header {
     font-weight: 400;
     color: #fff;
     border-radius: 4px 4px 0 0;
-    margin: 0;
+    margin-left: 16px;
 }
 
 .nav a {
     display: block;
-    width: 170px;
+    width: 150px;
     height: 50px;
     border: 1px solid #F0F0F0;
     border-top: 0;
@@ -76,6 +76,7 @@ header {
     text-align: center;
     line-height: 50px;
     text-decoration: none;
+    margin-left: 16px;
 }
 
 .nav a:hover {
