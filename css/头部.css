@@ -23,17 +23,19 @@ a{
 }
 .Blue-capsule{
   margin-top: 30px; 
-  padding: 0 14px;
+  padding: 0;
   height: 30px !important;
   line-height: 30px;
   border-radius: 15px;
   font-size: 14px;
   color: #3563d5;
   text-align: center;
-  /* cursor: pointer; */
   background: #e3f3fe;
 } 
 .Blue{
   text-align: center;
   color: #3563d5 !important;
+}
+.location{
+  margin: 10px;
 }

@@ -34,6 +34,11 @@ a:hover{
   color: #000 !important;
   font-size: 20px;
 }
+.fonts20x {
+  color: #000 !important;
+  font-size: 20px;
+  line-height: 30px;
+}
 .fonts22{
   color: #000 !important;
   font-size: 22px !important;
@@ -72,6 +77,21 @@ shade:hover{
 }
 .hh{
   display: inline-block;
-  width: 24px;
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAUCAYAAACAl21KAAAACXBIW…LW7wrNCG32fPDR6IU228AwkFolR54SrJKDwCkwKLQ5CHP3X5CgMdjbpGgAAAAASUVORK5CYII=) 0 no-repeat;
+  background: #4889f3;
+  color: #fff;
+  font-size: 14px;
+  border-radius: 3px;
+  line-height: 20px;
+  margin-right: 5px;
+  padding: 0 5px;
+  position: relative;
+  top: 0px;
+}
+.font12{
+  color: #666;
+  margin-top: 45px;
+  font-size: 12px;
+}.font12s{
+  color: #666 !important;
+
 }
